@@ -39,7 +39,7 @@ open class AvatarGroupView: UIView {
         stackView.axis = .horizontal
         stackView.distribution = UIStackView.Distribution.equalCentering
         stackView.alignment = .center
-        stackView.backgroundColor = .red
+        stackView.backgroundColor = .white
         return stackView
     }()
     
